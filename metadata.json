@@ -1,0 +1,6 @@
+{
+  "name": "My PDF Suite",
+  "description": "All-in-one PDF utility suite. Manage, convert, compress, edit, secure, and analyze documents with advanced AI and OCR scanning features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
